@@ -126,6 +126,17 @@ nav a{
     padding-left: 20px;
     color: #fff;
 }
+.Gallery{
+    margin: 0;
+    padding-left: 10px;
+}
+.Gallery img{
+    padding: 50px;
+}
+.Gallery h2{
+    color: #fff;
+    padding-left: 20px;
+}
 .Contact{
     margin: 0;
     background-color: #252121;
