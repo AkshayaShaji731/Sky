@@ -128,14 +128,33 @@ nav a{
 }
 .Contact{
     margin: 0;
-    background-color: #423f3f;
+    background-color: #252121;
     width: 100%;
-    height: 150px;
+    height: 300px;
 }
 .con-1{
     padding-left: 20px;
+    color: #fff;
 }
 .con-2{
-    padding-left: 200px;
-    
+    width: 300px;
+    height: 200px;
+    margin-left: 500px;
+    padding-left: 10px;
+    border: 2px solid rgb(92, 90, 90);
+}
+.con-2 h3{
+    color: #fff;
+}
+#msg{
+    width: 172px;
+    height: 50px;
+}
+.con-2 button{
+    color: #7c7777;
+}
+footer{
+    color: #fff;
+    text-align: center;
+
 }
