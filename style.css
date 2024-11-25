@@ -169,3 +169,16 @@ footer{
     text-align: center;
 
 }
+@media screen and (max-width:780px){
+    .home img{
+        margin: 0;
+        height: 650px;
+        width: 100%;
+}
+.about{
+    margin: 0;
+    height: 200px;
+    width: 100%;
+    background-color: #000;
+}
+}
